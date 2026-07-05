@@ -14,7 +14,7 @@ export const personalInfo = {
     github: "https://github.com/tehkotak231/", // TODO: Ganti dengan link GitHub Anda
     linkedin: "https://www.linkedin.com/in/m-hasbi-fadilah-9758b129a?utm_source=share_via&utm_content=profile&utm_medium=member_android", // TODO: Ganti dengan link LinkedIn Anda
     email: "mailto:hasbifadhilah2000@gmail.com", // TODO: Ganti dengan email Anda
-    whatsapp: "https://wa.me/6281234567890", // TODO: Ganti dengan nomor WhatsApp Anda (format internasional, tanpa + atau 0 di depan 62)
+    whatsapp: "https://wa.me/6285353208617", // TODO: Ganti dengan nomor WhatsApp Anda (format internasional, tanpa + atau 0 di depan 62)
   },
 };
 
